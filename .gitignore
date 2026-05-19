@@ -1,0 +1,14 @@
+.pio/
+.pio-core/
+.vscode/
+.idea/
+*.log
+*.tmp
+*.bak
+*.bin
+*.elf
+*.map
+*.factory.bin
+compile_commands.json
+.DS_Store
+Thumbs.db
