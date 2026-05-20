@@ -2,7 +2,6 @@
 
 这是一个基于 Waveshare ESP32-C6-LCD-1.47 开发板的横板电子铭牌/相册固件。它可以在板载 1.47 英寸 LCD 上显示 SD 卡中的图片或网页渲染出的文字页面，并通过局域网网页进行内容管理。
 
-项目从 `E:\Test\esp32c6_scroll_helloworld` 独立整理而来，当前仓库只保留可构建的 PlatformIO 工程和必要的本地库，不包含 `.pio`、`.pio-core` 或完整 Waveshare 示例包。
 
 ## 功能
 
